@@ -1,0 +1,6 @@
+﻿  Task1.cpp
+  TimeClass.cpp
+C:\Users\Xiaomi\Documents\3 семестр\Lab6\Task1\TimeClass.cpp(366,55): warning C4244: '+=': conversion from 'double' to 'ULONGLONG', possible loss of data
+C:\Users\Xiaomi\Documents\3 семестр\Lab6\Task1\TimeClass.cpp(390,26): warning C4244: '=': conversion from 'WCHAR' to 'char', possible loss of data
+  Generating Code...
+  Task1.vcxproj -> C:\Users\Xiaomi\Documents\3 семестр\Lab6\Debug\Task1.exe
